@@ -1,0 +1,10 @@
+/Users/elizabethpedley/projects/DojoAssignments/netCore/ASP.Net/core/passcode/obj/Debug/netcoreapp2.0/passcode.csproj.CoreCompileInputs.cache
+/Users/elizabethpedley/projects/DojoAssignments/netCore/ASP.Net/core/passcode/obj/Debug/netcoreapp2.0/passcode.AssemblyInfoInputs.cache
+/Users/elizabethpedley/projects/DojoAssignments/netCore/ASP.Net/core/passcode/obj/Debug/netcoreapp2.0/passcode.AssemblyInfo.cs
+/Users/elizabethpedley/projects/DojoAssignments/netCore/ASP.Net/core/passcode/bin/Debug/netcoreapp2.0/passcode.deps.json
+/Users/elizabethpedley/projects/DojoAssignments/netCore/ASP.Net/core/passcode/bin/Debug/netcoreapp2.0/passcode.runtimeconfig.json
+/Users/elizabethpedley/projects/DojoAssignments/netCore/ASP.Net/core/passcode/bin/Debug/netcoreapp2.0/passcode.runtimeconfig.dev.json
+/Users/elizabethpedley/projects/DojoAssignments/netCore/ASP.Net/core/passcode/bin/Debug/netcoreapp2.0/passcode.dll
+/Users/elizabethpedley/projects/DojoAssignments/netCore/ASP.Net/core/passcode/bin/Debug/netcoreapp2.0/passcode.pdb
+/Users/elizabethpedley/projects/DojoAssignments/netCore/ASP.Net/core/passcode/obj/Debug/netcoreapp2.0/passcode.dll
+/Users/elizabethpedley/projects/DojoAssignments/netCore/ASP.Net/core/passcode/obj/Debug/netcoreapp2.0/passcode.pdb

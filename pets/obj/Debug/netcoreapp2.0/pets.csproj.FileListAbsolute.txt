@@ -1,0 +1,10 @@
+/Users/elizabethpedley/projects/DojoAssignments/netCore/ASP.Net/core/pets/bin/Debug/netcoreapp2.0/pets.deps.json
+/Users/elizabethpedley/projects/DojoAssignments/netCore/ASP.Net/core/pets/bin/Debug/netcoreapp2.0/pets.runtimeconfig.json
+/Users/elizabethpedley/projects/DojoAssignments/netCore/ASP.Net/core/pets/bin/Debug/netcoreapp2.0/pets.runtimeconfig.dev.json
+/Users/elizabethpedley/projects/DojoAssignments/netCore/ASP.Net/core/pets/bin/Debug/netcoreapp2.0/pets.dll
+/Users/elizabethpedley/projects/DojoAssignments/netCore/ASP.Net/core/pets/bin/Debug/netcoreapp2.0/pets.pdb
+/Users/elizabethpedley/projects/DojoAssignments/netCore/ASP.Net/core/pets/obj/Debug/netcoreapp2.0/pets.csproj.CoreCompileInputs.cache
+/Users/elizabethpedley/projects/DojoAssignments/netCore/ASP.Net/core/pets/obj/Debug/netcoreapp2.0/pets.AssemblyInfoInputs.cache
+/Users/elizabethpedley/projects/DojoAssignments/netCore/ASP.Net/core/pets/obj/Debug/netcoreapp2.0/pets.AssemblyInfo.cs
+/Users/elizabethpedley/projects/DojoAssignments/netCore/ASP.Net/core/pets/obj/Debug/netcoreapp2.0/pets.dll
+/Users/elizabethpedley/projects/DojoAssignments/netCore/ASP.Net/core/pets/obj/Debug/netcoreapp2.0/pets.pdb

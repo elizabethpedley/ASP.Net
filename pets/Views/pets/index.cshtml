@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Dojoachi</title>
+</head>
+<body>
+    <p>Fullness: @ViewBag.full</p>
+    <p>Happiness: @ViewBag.happy</p>
+    <p>Meals: @ViewBag.meals</p>
+    <p>Energy: @ViewBag.energy</p>
+    <p>@ViewBag.line</p>
+    @{
+        if(ViewBag.check)
+        {
+            <button><a href="/feed">Feed</a></button>
+            <button><a href="/play">Play</a></button>
+            <button><a href="/work">work</a></button>
+            <button><a href="/sleep">Sleep</a></button>
+        }
+        else
+        {
+            <button><a href="/restart">Restart</a></button>
+        }
+    }
+</body>
+</html>

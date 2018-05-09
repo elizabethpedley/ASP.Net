@@ -1,0 +1,10 @@
+/Users/elizabethpedley/projects/DojoAssignments/netCore/ASP.Net/core/Woods/obj/Debug/netcoreapp2.0/Woods.csproj.CoreCompileInputs.cache
+/Users/elizabethpedley/projects/DojoAssignments/netCore/ASP.Net/core/Woods/obj/Debug/netcoreapp2.0/Woods.AssemblyInfoInputs.cache
+/Users/elizabethpedley/projects/DojoAssignments/netCore/ASP.Net/core/Woods/obj/Debug/netcoreapp2.0/Woods.AssemblyInfo.cs
+/Users/elizabethpedley/projects/DojoAssignments/netCore/ASP.Net/core/Woods/bin/Debug/netcoreapp2.0/Woods.deps.json
+/Users/elizabethpedley/projects/DojoAssignments/netCore/ASP.Net/core/Woods/bin/Debug/netcoreapp2.0/Woods.runtimeconfig.json
+/Users/elizabethpedley/projects/DojoAssignments/netCore/ASP.Net/core/Woods/bin/Debug/netcoreapp2.0/Woods.runtimeconfig.dev.json
+/Users/elizabethpedley/projects/DojoAssignments/netCore/ASP.Net/core/Woods/bin/Debug/netcoreapp2.0/Woods.dll
+/Users/elizabethpedley/projects/DojoAssignments/netCore/ASP.Net/core/Woods/bin/Debug/netcoreapp2.0/Woods.pdb
+/Users/elizabethpedley/projects/DojoAssignments/netCore/ASP.Net/core/Woods/obj/Debug/netcoreapp2.0/Woods.dll
+/Users/elizabethpedley/projects/DojoAssignments/netCore/ASP.Net/core/Woods/obj/Debug/netcoreapp2.0/Woods.pdb

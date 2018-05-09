@@ -1,0 +1,32 @@
+<header>
+    <h1>Add a new trail</h1>
+    <a href="/">Go Home</a>
+</header>
+@model Woods.Models.Trail
+<form asp-controller="Woods" asp-action="newTrailCreate" method="post">
+    <label asp-for="Name"></label>
+    <input asp-for="Name"/>
+    <span asp-validation-for="Name"></span>
+    <br>
+    <label asp-for="Description"></label>
+    <input asp-for="Description"/>
+    <span asp-validation-for="Description"></span>
+    <br>
+    <label asp-for="Length"></label>
+    <input asp-for="Length"/>
+    <span asp-validation-for="Length"></span>
+    <br>
+    <label asp-for="Elevation"></label>
+    <input asp-for="Elevation"/>
+    <span asp-validation-for="Elevation"></span>
+    <br>
+    <label asp-for="Latitude"></label>
+    <input asp-for="Latitude"/>
+    <span asp-validation-for="Latitude"></span>
+    <br>
+    <label asp-for="Longitude"></label>
+    <input asp-for="Longitude"/>
+    <span asp-validation-for="Longitude"></span>
+    <br>
+    <input type="submit">
+</form>

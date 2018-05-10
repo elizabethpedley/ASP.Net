@@ -1,0 +1,10 @@
+/Users/elizabethpedley/projects/DojoAssignments/netCore/ASP.Net/core/RESTauranter/obj/Debug/netcoreapp2.0/RESTauranter.csproj.CoreCompileInputs.cache
+/Users/elizabethpedley/projects/DojoAssignments/netCore/ASP.Net/core/RESTauranter/obj/Debug/netcoreapp2.0/RESTauranter.AssemblyInfoInputs.cache
+/Users/elizabethpedley/projects/DojoAssignments/netCore/ASP.Net/core/RESTauranter/obj/Debug/netcoreapp2.0/RESTauranter.AssemblyInfo.cs
+/Users/elizabethpedley/projects/DojoAssignments/netCore/ASP.Net/core/RESTauranter/bin/Debug/netcoreapp2.0/RESTauranter.deps.json
+/Users/elizabethpedley/projects/DojoAssignments/netCore/ASP.Net/core/RESTauranter/bin/Debug/netcoreapp2.0/RESTauranter.runtimeconfig.json
+/Users/elizabethpedley/projects/DojoAssignments/netCore/ASP.Net/core/RESTauranter/bin/Debug/netcoreapp2.0/RESTauranter.runtimeconfig.dev.json
+/Users/elizabethpedley/projects/DojoAssignments/netCore/ASP.Net/core/RESTauranter/bin/Debug/netcoreapp2.0/RESTauranter.dll
+/Users/elizabethpedley/projects/DojoAssignments/netCore/ASP.Net/core/RESTauranter/bin/Debug/netcoreapp2.0/RESTauranter.pdb
+/Users/elizabethpedley/projects/DojoAssignments/netCore/ASP.Net/core/RESTauranter/obj/Debug/netcoreapp2.0/RESTauranter.dll
+/Users/elizabethpedley/projects/DojoAssignments/netCore/ASP.Net/core/RESTauranter/obj/Debug/netcoreapp2.0/RESTauranter.pdb

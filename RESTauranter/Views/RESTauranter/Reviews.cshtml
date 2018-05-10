@@ -1,0 +1,15 @@
+@{
+    foreach(var review in ViewBag.all)
+    {
+        <h4>Review for: @review.Restaurant</h4>
+        if(@review.Stars == 1)
+        {
+            <h4>@review.Stars star </h4>
+        }else{
+            <h4>@review.Stars stars</h4>
+        }
+        <h4>Reviewer: @review.Reviewer @String.Format("{0:MMMM d, yyyy}", @review.CreatedAt)</h4>
+        <p>@review.Review</p>
+        <hr>
+    }
+}

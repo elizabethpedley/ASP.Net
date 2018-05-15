@@ -1,0 +1,29 @@
+<h1>Welcome, @ViewBag.User.FirstName</h1>
+<h4>Current Balance: @ViewBag.User.Account.Balance</h4>
+
+@model Bank.Models.Withdraw 
+<form asp-controller="Bank" asp-action="Withdraw" method="post">
+    
+    <span asp-validation-for="Amount"></span>
+    <br>
+    <label asp-for="Amount"></label>
+    <input asp-for="Amount"/>
+    <input type="Submit">
+</form>
+
+@{
+    <table>
+    <tr>
+        <th>Amount</th>
+        <th>Date</th>
+    </tr>
+    @foreach(var thing in @ViewBag.User.Account.Transactions)
+    {
+        <tr>
+            <td>@String.Format("{0:C}", Convert.ToInt32(thing.Amount))</td>
+            <td>@String.Format("{0:MMMM d, yyyy}", thing.Date)</td>
+        </tr>
+
+    }
+    </table>
+}

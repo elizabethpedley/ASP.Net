@@ -1,0 +1,10 @@
+/Users/elizabethpedley/projects/DojoAssignments/netCore/ASP.Net/core/Bank/bin/Debug/netcoreapp2.0/Bank.deps.json
+/Users/elizabethpedley/projects/DojoAssignments/netCore/ASP.Net/core/Bank/bin/Debug/netcoreapp2.0/Bank.runtimeconfig.json
+/Users/elizabethpedley/projects/DojoAssignments/netCore/ASP.Net/core/Bank/bin/Debug/netcoreapp2.0/Bank.runtimeconfig.dev.json
+/Users/elizabethpedley/projects/DojoAssignments/netCore/ASP.Net/core/Bank/bin/Debug/netcoreapp2.0/Bank.dll
+/Users/elizabethpedley/projects/DojoAssignments/netCore/ASP.Net/core/Bank/bin/Debug/netcoreapp2.0/Bank.pdb
+/Users/elizabethpedley/projects/DojoAssignments/netCore/ASP.Net/core/Bank/obj/Debug/netcoreapp2.0/Bank.csproj.CoreCompileInputs.cache
+/Users/elizabethpedley/projects/DojoAssignments/netCore/ASP.Net/core/Bank/obj/Debug/netcoreapp2.0/Bank.AssemblyInfoInputs.cache
+/Users/elizabethpedley/projects/DojoAssignments/netCore/ASP.Net/core/Bank/obj/Debug/netcoreapp2.0/Bank.AssemblyInfo.cs
+/Users/elizabethpedley/projects/DojoAssignments/netCore/ASP.Net/core/Bank/obj/Debug/netcoreapp2.0/Bank.dll
+/Users/elizabethpedley/projects/DojoAssignments/netCore/ASP.Net/core/Bank/obj/Debug/netcoreapp2.0/Bank.pdb

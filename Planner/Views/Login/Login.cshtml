@@ -1,0 +1,16 @@
+<h1>Login</h1>
+@model Planner.Models.LoginVM 
+<form asp-controller="Login" asp-action="Login" method="post">
+    
+    <span asp-validation-for="LEmail"></span>
+    <br>
+    <label asp-for="LEmail"></label>
+    <input asp-for="LEmail"/>
+    <br>
+    <span asp-validation-for="LPassword"></span>
+    <br>
+    <label asp-for="LPassword"></label>
+    <input asp-for="LPassword"/>
+    <br>
+    <input type="Submit">
+</form>

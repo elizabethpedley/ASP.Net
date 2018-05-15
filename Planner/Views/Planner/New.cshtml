@@ -1,0 +1,28 @@
+<h1>Plan your Wedding</h1>
+<a href="/planner">Dashboard</a>
+<a href="/logoff">Logoff</a>
+@model Planner.Models.EventVM
+<form asp-controller="Planner" asp-action="Create" method="post">
+    
+    <span asp-validation-for="WedderOne"></span>
+    <br>
+    <label asp-for="WedderOne"></label>
+    <input asp-for="WedderOne"/>
+    <br>
+    <span asp-validation-for="WedderTwo"></span>
+    <br>
+    <label asp-for="WedderTwo"></label>
+    <input asp-for="WedderTwo"/>
+    <br>
+    <span asp-validation-for="Date"></span>
+    <br>
+    <label asp-for="Date"></label>
+    <input asp-for="Date"/>
+    <br>
+    <span asp-validation-for="Address"></span>
+    <br>
+    <label asp-for="Address"></label>
+    <input asp-for="Address"/>
+    <br>
+    <input type="Submit">
+</form>

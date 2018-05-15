@@ -1,0 +1,11 @@
+/Users/elizabethpedley/projects/DojoAssignments/netCore/ASP.Net/core/Planner/obj/Debug/netcoreapp2.0/Planner.csprojResolveAssemblyReference.cache
+/Users/elizabethpedley/projects/DojoAssignments/netCore/ASP.Net/core/Planner/obj/Debug/netcoreapp2.0/Planner.csproj.CoreCompileInputs.cache
+/Users/elizabethpedley/projects/DojoAssignments/netCore/ASP.Net/core/Planner/obj/Debug/netcoreapp2.0/Planner.AssemblyInfoInputs.cache
+/Users/elizabethpedley/projects/DojoAssignments/netCore/ASP.Net/core/Planner/obj/Debug/netcoreapp2.0/Planner.AssemblyInfo.cs
+/Users/elizabethpedley/projects/DojoAssignments/netCore/ASP.Net/core/Planner/bin/Debug/netcoreapp2.0/Planner.deps.json
+/Users/elizabethpedley/projects/DojoAssignments/netCore/ASP.Net/core/Planner/bin/Debug/netcoreapp2.0/Planner.runtimeconfig.json
+/Users/elizabethpedley/projects/DojoAssignments/netCore/ASP.Net/core/Planner/bin/Debug/netcoreapp2.0/Planner.runtimeconfig.dev.json
+/Users/elizabethpedley/projects/DojoAssignments/netCore/ASP.Net/core/Planner/bin/Debug/netcoreapp2.0/Planner.dll
+/Users/elizabethpedley/projects/DojoAssignments/netCore/ASP.Net/core/Planner/bin/Debug/netcoreapp2.0/Planner.pdb
+/Users/elizabethpedley/projects/DojoAssignments/netCore/ASP.Net/core/Planner/obj/Debug/netcoreapp2.0/Planner.dll
+/Users/elizabethpedley/projects/DojoAssignments/netCore/ASP.Net/core/Planner/obj/Debug/netcoreapp2.0/Planner.pdb

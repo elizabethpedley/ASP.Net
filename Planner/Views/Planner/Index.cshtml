@@ -1,0 +1,50 @@
+<h1>Welcome to the Wedding Planner</h1>
+<a href="/logoff">Logoff</a>
+
+@{
+     @if(ViewBag.Events.Count<1)
+        {
+            <h3>There are no Events at this time</h3>
+        }else{
+            <Table>
+                <tr>
+                    <th>Wedding</th>
+                    <th>Date</th>
+                    <th>Guest Count</th>
+                    <th>Action</th>
+                </tr>
+       
+             @foreach(var e in ViewBag.Events)
+            {
+                bool check = false;
+                @foreach(var person in e.Attendees)
+                {
+                    if(person.Attendee == ViewBag.User)
+                    {
+                        check = true;
+                    }
+                }
+                <tr>
+                    <td><a href="/planner/@e.EventId">@e.WedderOne & @e.WedderTwo</a></td>
+                    <td>@String.Format("{0:MMMM d, yyyy}", e.Date)</td>
+                    <td>@e.Attendees.Count</td>
+                    @if(e.Creator == ViewBag.User)
+                    {
+                        <td><a href="/planner/@e.EventId/delete">Delete</a></td>
+                    }else if(check){
+                        <td><a href="/planner/@e.EventId/unrsvp">Un-RSVP</a></td>
+                    }else{
+                        <td><a href="/planner/@e.EventId/rsvp">RSVP</a></td>
+                    }
+                    
+                </tr>
+
+            }
+
+            </Table>
+        }
+   
+}
+<button><a href="/planner/new">Add a new Event!</a></button>
+
+
